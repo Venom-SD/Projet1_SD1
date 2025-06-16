@@ -1,1 +1,1 @@
-Ce fichier est un exemple GitHub
+Ce fichier est un exemple d'utilisation de Git/GitHub
